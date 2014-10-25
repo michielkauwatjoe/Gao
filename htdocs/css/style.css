@@ -1,0 +1,33 @@
+/**
+ *
+ */
+
+@import url('http://bucket.gomiyama.com.s3.amazonaws.com/fonts/bariol/style.css');
+@import url('http://bucket.factful-planet.com.s3.amazonaws.com/fonts/octicons/style.css');
+
+body, html, pre {
+	background: white;
+	font-family: 'Bariol Regular';
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 100%;
+}
+
+#footer {
+	float: left;
+    color: white;
+	background: red;
+	width: 100%; 
+	margin-bottom: 1em;
+	padding: 0;
+	text-align:center;
+	border-radius: 10px;
+}
+
+.octoface:before {
+	font-family: 'Octicons';
+	content: "\f008";
+}
+
