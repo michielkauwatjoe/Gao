@@ -1,11 +1,11 @@
-{ "people":
-    [
-        {"pid": "001",
-        "chinese name": "高压球",
-        "dutch last name": "Kauw-A-Tjoe",
-        "dutch first name": "Joseph",
-        "offspring": "[]",
-        "father": "Unknown",
-        "mother": "Unknown"}
-    ]
+ {
+    "people": [
+            {"pid": "001",
+            "chinese name": "高压球",
+            "dutch last name": "Kauw-A-Tjoe",
+            "dutch first name": "Joseph",
+            "offspring": "",
+            "father": "Unknown",
+            "mother": "Unknown"}
+        ]
 }
