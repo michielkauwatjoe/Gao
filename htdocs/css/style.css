@@ -2,12 +2,12 @@
  *
  */
 
-@import url('http://bucket.gomiyama.com.s3.amazonaws.com/fonts/bariol/style.css');
+/*@import url('http://bucket.gomiyama.com.s3.amazonaws.com/fonts/bariol/style.css');*/
 @import url('http://bucket.factful-planet.com.s3.amazonaws.com/fonts/octicons/style.css');
 
 body, html, pre {
-	background: white;
-	font-family: 'Bariol Regular';
+	background: black;
+	font-family: 'Arial';
 	color: white;
 	margin-left: auto;
 	margin-right: auto;
